@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsisojib)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsisojib@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsisojib)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8801521315259)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801521315259)
 
 </div>
@@ -90,7 +90,7 @@ Leadership:
 **Supply Chain & Logistics**
 
 🏢 Shamolima Ltd  
-🔧 Flutter • BLoC • Firebase
+🔧 Flutter • Provider • Rest API
 
 ✅ Offline-first architecture  
 ✅ Real-time GPS tracking  
@@ -106,7 +106,7 @@ Leadership:
 **Artist Empowerment Platform**
 
 🏢 Tikweb (Denmark)  
-🔧 Flutter • Clean Architecture
+🔧 Flutter • Provider •  Clean Architecture
 
 ✅ 60% faster startup  
 ✅ 40% smaller app size  
@@ -125,7 +125,7 @@ Leadership:
 **Auto Shop Management**
 
 🏢 LiberateLab LLC  
-🔧 Flutter • BLoC • Firebase
+🔧 Flutter • Provider • Rest API
 
 ✅ Business automation  
 ✅ Real-time analytics  
@@ -141,7 +141,7 @@ Leadership:
 **E-Commerce Platform**
 
 🏢 Projucti Ltd  
-🔧 Flutter • GetX • Payment
+🔧 Flutter • Provider • Payment
 
 ✅ 100K+ users  
 ✅ 10K+ products  
@@ -160,7 +160,7 @@ Leadership:
 **Sleep Tracking & Analysis**
 
 🏢 Freelance  
-🔧 Flutter • Audio Processing
+🔧 Flutter • GetX • Audio Processing
 
 ✅ Real-time detection  
 ✅ Pattern analysis  
@@ -228,10 +228,11 @@ Leadership:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imsisojib&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsisojib&theme=radical&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsisojib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsisojib&layout=compact&theme=radical&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=imsisojib&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsisojib&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -239,18 +240,68 @@ Leadership:
 
 ## 💼 Professional Journey
 
-```mermaid
-gantt
-    title Career Timeline
-    dateFormat YYYY-MM
-    section Experience
-    Junior Software Engineer(Full-time)  (LEADS Corporation)            :2021-01, 2022-02
-    Software Engineer(Full-time)  (Projucti Ltd)         :2022-03, 2022-09
-    Software Engineer(Full-time) (Tikweb Denmark)       :2022-10, 2024-02
-    Senior Software Engineer(Contract) (Altitude Rewards LLC)          :2025-05, 2025-10
-    Senior Software Engineer(Full-time) (Shamolima Ltd)                :2024-03, Current
-    
-```
+<table>
+<tr>
+<td width="25%">
+
+**2021-2022**  
+🟢 Junior SE  
+LEADS Corporation  
+*Jan 2021 - Feb 2022*
+
+</td>
+<td width="25%">
+
+**2022**  
+🟢 Software Engineer  
+Projucti Ltd  
+*Mar - Sep*
+
+</td>
+<td width="25%">
+
+**2022-2024**  
+🟢 Software Engineer  
+Tikweb (Denmark)  
+*Oct 2022 - Feb 2024*
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+**2024-Present**  
+🔴 Senior SE  
+Shamolima Ltd  
+*Mar 2024 - Present*
+
+</td>
+<td width="25%">
+
+**2025**  
+🟡 Contract  
+Altitude Rewards LLC  
+*May - Oct*
+
+</td>
+<td width="25%">
+
+**Part-Time**  
+🟡 Developer  
+LiberateLab LLC  
+*Ongoing*
+
+</td>
+<td width="25%">
+
+**Freelance**  
+🟢 Mobile Developer  
+Multiple Projects  
+*Ongoing*
+
+</td>
+</tr>
+</table>
 
 ---
 
