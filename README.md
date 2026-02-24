@@ -80,6 +80,16 @@ Leadership:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=imsisojib-dev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 <table>
@@ -124,7 +134,7 @@ Leadership:
 ### 🚗 AutoHubAI
 **Auto Shop Management**
 
-🏢 LiberateLab LLC  
+🏢 LiberateLabs LLC  
 🔧 Flutter • Provider • Rest API
 
 ✅ Business automation  
@@ -170,24 +180,7 @@ Leadership:
 [![iOS](https://img.shields.io/badge/-iOS-blue?style=flat-square&logo=app-store)](https://apps.apple.com/us/app/sleepgofer/id6740777770)
 
 </td>
-<td width="50%">
 
-### 💄 Floramom
-**Skincare E-Commerce**
-
-🏢 Freelance  
-🔧 Flutter • GetX • Payment
-
-✅ International brands  
-✅ Smart filtering  
-✅ Secure checkout
-
-[![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.floramom.app&hl=en)
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🏦 RAKUB eBanking
@@ -203,104 +196,9 @@ Leadership:
 [![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.rakub.mobile)
 
 </td>
-<td width="50%">
 
-### 🛍️ Public Market
-**C2C Marketplace**
-
-🏢 Freelance  
-🔧 Flutter • Provider • Maps
-
-✅ Job postings  
-✅ Location-based  
-✅ Secure messaging
-
-[![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.BD.publicmarket.app)
-[![iOS](https://img.shields.io/badge/-iOS-blue?style=flat-square&logo=app-store)](https://apps.apple.com/us/app/public-market-buy-sell-job/id1637868355)
-
-</td>
 </tr>
-</table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsisojib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=imsisojib-dev&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsisojib-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td width="25%">
-
-**2021-2022**  
-🟢 Junior SE  
-LEADS Corporation  
-*Jan 2021 - Feb 2022*
-
-</td>
-<td width="25%">
-
-**2022**  
-🟢 Software Engineer  
-Projucti Ltd  
-*Mar - Sep*
-
-</td>
-<td width="25%">
-
-**2022-2024**  
-🟢 Software Engineer  
-Tikweb (Denmark)  
-*Oct 2022 - Feb 2024*
-
-</td>
-</tr>
-<tr>
-<td width="25%">
-
-**2024-Present**  
-🔴 Senior SE  
-Shamolima Ltd  
-*Mar 2024 - Present*
-
-</td>
-<td width="25%">
-
-**2025**  
-🟡 Contract  
-Altitude Rewards LLC  
-*May - Oct*
-
-</td>
-<td width="25%">
-
-**Part-Time**  
-🟡 Developer  
-LiberateLab LLC  
-*Ongoing*
-
-</td>
-<td width="25%">
-
-**Freelance**  
-🟢 Mobile Developer  
-Multiple Projects  
-*Ongoing*
-
-</td>
-</tr>
 </table>
 
 ---
@@ -338,13 +236,6 @@ Client Satisfaction
 </td>
 </tr>
 </table>
-
----
-
-## 🎓 Education
-
-**BSc in Computer Science and Engineering**  
-🎓 International Islamic University Chittagong | CGPA: **3.83/4.00** | 2016-2020
 
 ---
 
