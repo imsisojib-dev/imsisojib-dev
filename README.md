@@ -189,7 +189,6 @@ Leadership:
 🏢 LEADS Corporation  
 🔧 Kotlin • MVVM • Security
 
-✅ Biometric auth  
 ✅ SSL pinning  
 ✅ 95%+ crash-free
 
