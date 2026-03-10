@@ -100,7 +100,7 @@ Leadership:
 **Supply Chain & Logistics**
 
 🏢 Shamolima Ltd  
-🔧 Flutter • Provider • Rest API
+🔧 Flutter • Bloc • Rest API
 
 ✅ Offline-first architecture  
 ✅ Real-time GPS tracking  
